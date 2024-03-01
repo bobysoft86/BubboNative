@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "bubboTest",
+    "slug": "bubboTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
